@@ -122,9 +122,9 @@ ul li a{
 }
 
 #Home {
+    background-image: url(photos/faw2.jpg);
     height: 120vh;
     max-width: 100%;
-    background-image: url(photos/faw2.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
