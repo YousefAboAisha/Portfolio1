@@ -122,11 +122,11 @@ ul li a{
 }
 
 #Home {
-    background: url('Photos/faw2.jpg');
-    background-size: cover;
-    min-height:120vh ;
-    position: relative;
+    height: 120vh;
     max-width: 100%;
+    background-image: url(photos/faw2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 #Home h3 {
@@ -498,7 +498,7 @@ ul li a{
 }
 
 .contact-content .right form button {
-    padding: 10px;
+    padding: 8px 10px;
     outline: none;
     color: rgb(0, 0, 0, 3, 3);
     background:none;
