@@ -198,7 +198,7 @@ ul li a{
 
 .heading h3::after{
     position: absolute;
-    content: "Who I am ";
+    content: "Who am I ";
     background:rgb(255, 255, 255);
     left: 50%;
     bottom: -10px;
