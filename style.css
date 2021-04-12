@@ -351,6 +351,12 @@ ul li a{
 
 #Achivements {
     margin-top: 180px;
+    transform: scale(0.9);
+}
+
+#Achivements .heading h3 {
+    font-weight: 600;
+    font-size: 40px;
 }
 
 #Achivements .heading h3::after{
@@ -364,7 +370,7 @@ ul li a{
     margin: auto;
     flex-flow: row wrap;
     justify-content: space-between;
-    transform: scale(0.9);
+    margin-top: 50px;
 }
 
 .images .card {
