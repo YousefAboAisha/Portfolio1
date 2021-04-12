@@ -3,7 +3,7 @@ $(document).ready(function () {
     $(".nav-bar li a,.side-bar li a").on("click", function (e) {
         e.preventDefault();
         $("body,html").animate({
-            scrollTop: $('#' + $(this).data("faw")).offset().top + 1
+            scrollTop: $('#' + $(this).data("faw")).offset().top - 100
         }, 1000)
     })
 
