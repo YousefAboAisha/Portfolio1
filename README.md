@@ -1,2 +1,4 @@
 # Project description
-Simple portfolio using HTML, CSS, JS, REACT JS, WOW.JS.
+Simple portfolio containing projects and special photos.
+
+Using: HTML, CSS, JS, React JS, Firebase, WOW.JS.
