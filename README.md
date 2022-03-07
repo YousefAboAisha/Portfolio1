@@ -1,2 +1,2 @@
-# Project #1
-Personal Site 
+# Project description
+Simple portfolio using HTML, CSS, JS, REACT JS, WOW.JS.
